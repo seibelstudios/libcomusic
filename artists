@@ -4,7 +4,7 @@
   <head prefix="fb: http://www.facebook.com/2008/fbml og: http://opengraphprotocol.org/schema/">
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Matt Seibel - Artists</title>
+<title>Artists</title>
 
 
 
@@ -39,12 +39,12 @@
 
 <meta name="csrf-param" content="authenticity_token" />
 <meta name="csrf-token" content="YdyxIOYKQGzpcSa2Gst6ABr9zApbDdwOGEensYl31XtGbrzo/0rAclrXz9yMhsLjdp+CL3RQcU3ZdYYH+vncug==" />
-<meta name="title" content="Matt Seibel - Artists" />
-<meta property="og:title" content="Matt Seibel - Artists" />
-<meta name="twitter:title" content="Matt Seibel - Artists" />
-<meta name="description" content="Artists. Matt Seibel, a label from Pittsburgh" />
-<meta property="og:description" content="Artists. Matt Seibel, a label from Pittsburgh" />
-<meta name="twitter:description" content="Artists. Matt Seibel, a label from Pittsburgh" />
+<meta name="title" content="Artists" />
+<meta property="og:title" content="Artists" />
+<meta name="twitter:title" content="Artists" />
+<meta name="description" content="Artists, a label from Pittsburgh" />
+<meta property="og:description" content="Artists, a label from Pittsburgh" />
+<meta name="twitter:description" content="Artists, a label from Pittsburgh" />
 <meta name="image" content="https://imagery.zoogletools.com/u/248805/dbb6c8f40bc469712aad5dd2129cfb8bc660de80/original/me-in-office.jpg" />
 <meta property="og:image" content="https://s3.amazonaws.com/content.sitezoogle.com/u/248805/dbb6c8f40bc469712aad5dd2129cfb8bc660de80/original/me-in-office.jpg" />
 <meta name="image:width" content="959" />
